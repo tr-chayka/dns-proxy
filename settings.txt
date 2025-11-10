@@ -1,0 +1,6 @@
+port=1500
+dns_ip=8.8.8.8
+dns_port=53
+blacklist=blacklist.txt
+blacklist_ip=127.0.0.1
+filter_type=ip
